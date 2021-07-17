@@ -1,4 +1,12 @@
-### Hi there 👋
+![image1.jpg](userui-iMac:Woorim-lee user$)
+
+
+
+
+
+
+
+
 
 <!--
 **Woorim-lee/Woorim-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
