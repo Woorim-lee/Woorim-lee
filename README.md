@@ -4,6 +4,8 @@
 
 <div align=center>
 
+<br>
+
 
 
 
@@ -15,9 +17,15 @@
 
 
 
+<br>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woorim-lee&layout=compact&theme=dracula)](https://github.com/Woorim-lee)
+
+
+
+<br>
 
 
 
@@ -30,6 +38,8 @@
 [![Naver Badge](http://img.shields.io/badge/Naver-white?style=flat-square&logo=Naver&link=mailto:dnfla43@naver.com)](mailto:dnfla43@naver.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woorim0806@gmail.com)](mailto:woorim0806@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/woorim-lee-901216/)](https://www.linkedin.com/in/woorim-lee-901216/)
 
 
+
+<br>
 
 
 
