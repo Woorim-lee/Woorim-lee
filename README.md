@@ -47,7 +47,7 @@
 
 
 
-<h3 align="center"> 👾 contact me 📬 </h3>
+<h3 align="center"> 🍒 Me 🍒 </h3>
 
 
 
