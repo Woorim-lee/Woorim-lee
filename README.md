@@ -7,7 +7,9 @@
 
 👾 호기심이 도전을, 도전이 성장을.
 
-👩‍💻데이터 엔지니어가 되기위해 공부 중!
+🔥 무슨 고민을 하나, 그냥 하는거지!
+
+👩‍💻 데이터 엔지니어가 되기위해 공부중
 
 <br>
 
@@ -29,6 +31,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+
+<br>
 
 <br>
 
