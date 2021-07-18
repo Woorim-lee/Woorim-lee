@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20WoorimLee | 이우림%20%20&height=150&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20WoorimLee%20%20&height=150&fontSize=80)
 
 
 
