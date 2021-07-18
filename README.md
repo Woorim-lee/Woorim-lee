@@ -1,11 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=%20WoorimLee%20%20&height=150&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20WoorimLee%20%20&height=150&fontSize=80)
 
 
 
 <div align=center>
-
-<br>
-
 <br>
 
 <br>
@@ -35,9 +32,9 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woorim-lee&layout=compact&theme=dracula)](https://github.com/Woorim-lee)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woorim-lee&layout=compact)](https://github.com/Woorim-lee)
 
 <br>
 
