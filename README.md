@@ -10,11 +10,15 @@
 
 빠르게 **성장** 하는 데이터 분야의 매력에 이끌려
 
-👩‍💻 데이터 엔지니어가 되기위해 공부중 :book:
+👩‍💻 데이터 엔지니어가 되기위해 공부중 :book: 
 
 <br>
 
 <br>
+
+---
+
+
 
 <h3 align="center"> 🖥 Tech stack 💡 </h3>
 <p align="center"> Techs that I've used at least once </p>
@@ -43,19 +47,15 @@
 
 <br>
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woorim-lee&layout=compact)](https://github.com/Woorim-lee)
 
 <br>
 
 <br>
 
-```html
-<h3 align="center"> Exprience </h3>
+<h3 align="center"> 🏢 Exprience 👩🏻‍💼 </h3>
 <p align="center"> 2018.05~2021.06 위닉스 SCM팀 </p>
 <p align="center"> 2012.11~2017.12 켐피아 영업지원팀</p>
-```
 
 <br>
 
