@@ -4,16 +4,17 @@
 
 <div align=center>
 <br>
+<br>
 
-👾 호기심이 도전을, 도전이 성장을.
+8년동안 제조업 영업관리 직무 경험을 기반으로
 
-🔥 무슨 고민을 하나, 그냥 하는거지!
+빠르게 **성장** 하는 데이터 분야의 매력에 이끌려
 
-👩‍💻 데이터 엔지니어가 되기위해 공부중
+👩‍💻 데이터 엔지니어가 되기위해 공부중 :book:
 
 <br>
 
-
+<br>
 
 <h3 align="center"> 🖥 Tech stack 💡 </h3>
 <p align="center"> Techs that I've used at least once </p>
@@ -36,6 +37,8 @@
 
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/>
+
 <br>
 
 <br>
@@ -48,7 +51,15 @@
 
 <br>
 
+```html
+<h3 align="center"> Exprience </h3>
+<p align="center"> 2018.05~2021.06 위닉스 SCM팀 </p>
+<p align="center"> 2012.11~2017.12 켐피아 영업지원팀</p>
+```
 
+<br>
+
+<br>
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
 
